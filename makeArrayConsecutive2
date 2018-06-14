@@ -1,0 +1,3 @@
+int makeArrayConsecutive2(int[] statues) {
+return statues.Max()-statues.Min()-(statues.Length-1);
+}
